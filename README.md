@@ -2,7 +2,7 @@
 
 Smart, repo-free Windows driver & runtime installer with a sleek PySide6 GUI.
 
-<p align="center"> <img src="mtool_logo_square.svg" alt="M-TOOL logo" width="160" /> </p> <p align="center"> <a href="https://img.shields.io/badge/Platform-Windows_10%2F11-blue?logo=windows&logoColor=white"><img src="https://img.shields.io/badge/Platform-Windows_10%2F11-blue?logo=windows&logoColor=white"/></a> <a href="https://img.shields.io/badge/GUI-PySide6-7C3AED?logo=qt&logoColor=white"><img src="https://img.shields.io/badge/GUI-PySide6-7C3AED?logo=qt&logoColor=white"/></a> <a href="https://img.shields.io/badge/Build-PyInstaller%20%7C%20Nuitka-22C55E"><img src="https://img.shields.io/badge/Build-PyInstaller%20%7C%20Nuitka-22C55E"/></a> <a href="https://img.shields.io/badge/Admin-Required-critical"><img src="https://img.shields.io/badge/Admin-Required-critical"/></a> </p>
+<p align="center"> <img src="[mtool_logo_square.svg](https://i.imgur.com/scU5KBS.png)" alt="M-TOOL logo" width="160" /> </p> <p align="center"> <a href="https://img.shields.io/badge/Platform-Windows_10%2F11-blue?logo=windows&logoColor=white"><img src="https://img.shields.io/badge/Platform-Windows_10%2F11-blue?logo=windows&logoColor=white"/></a> <a href="https://img.shields.io/badge/GUI-PySide6-7C3AED?logo=qt&logoColor=white"><img src="https://img.shields.io/badge/GUI-PySide6-7C3AED?logo=qt&logoColor=white"/></a> <a href="https://img.shields.io/badge/Build-PyInstaller%20%7C%20Nuitka-22C55E"><img src="https://img.shields.io/badge/Build-PyInstaller%20%7C%20Nuitka-22C55E"/></a> <a href="https://img.shields.io/badge/Admin-Required-critical"><img src="https://img.shields.io/badge/Admin-Required-critical"/></a> </p>
 ⚡ Features
 
 🧠 Auto-detect Motherboard → installs Intel/AMD Chipset + Intel MEI silently (no repo required)
@@ -44,4 +44,4 @@ Add your preferred license (MIT/Apache-2.0) as LICENSE in the repo.
 <p align="center">
   Made with ❤️ for clean Windows setups • PRs & issues welcome!
 </p>
-::contentReference[oaicite:0]{index=0}
+
